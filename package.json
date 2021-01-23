@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "git@github.com:diogocezar/whatsapp.git",
+  "author": "Diogo Cezar Teixeira Batista <diogo.batista@meifacil.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "venom-bot": "^2.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
